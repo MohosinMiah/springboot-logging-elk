@@ -1,4 +1,3 @@
-```
 # ELK using Docker Configuration with Spring Boot
 
 ## Overview
