@@ -1,4 +1,4 @@
-```markdown
+```
 # ELK using Docker Configuration with Spring Boot
 
 ## Overview
@@ -10,17 +10,17 @@ This repository provides a basic setup to integrate the ELK stack (Elasticsearch
 Follow these steps to set up and run the project:
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/MohosinMiah/springboot-logging-elk.git
    ```
 
 2. Navigate to the project directory:
-   ```bash
+   ```
    cd docker-logging-elk
    ```
 
 3. Start the ELK stack using Docker Compose:
-   ```bash
+   ```
    docker-compose up -d
    ```
 
